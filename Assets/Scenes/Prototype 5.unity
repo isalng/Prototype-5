@@ -354,6 +354,7 @@ MonoBehaviour:
   - {fileID: 635985874469074416, guid: cf43c0473d01f44039838b237875f964, type: 3}
   - {fileID: 3798622664201050991, guid: 74f18061991124da08ae834662c76946, type: 3}
   scoreText: {fileID: 783672744}
+  gameOverText: {fileID: 687889123}
   spawnRate: 1
 --- !u!4 &411534701
 Transform:
@@ -504,7 +505,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &687889122
 RectTransform:
   m_ObjectHideFlags: 0
